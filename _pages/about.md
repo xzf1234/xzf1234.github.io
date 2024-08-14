@@ -17,32 +17,68 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am pursuing a Ph.D. degree at the School of Cyber Science and Engineering, Huazhong University of Science and Technology, advised by [Ming Wen](https://mingwen-cs.github.io/index.html). Before that, I received my B.S. degree from the School of Computer Science and Engineering at NJUPT in 2020. I am also a visiting Ph.D. student at [Nanyang Technological University](https://www.ntu.edu.sg/) under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) during 2024-2025.
+I am pursuing a Ph.D. degree at the School of Cyber Science and Engineering, Huazhong University of Science and Technology, advised by [Prof. Ming Wen](https://mingwen-cs.github.io/index.html). Before that, I received my B.S. degree from the School of Computer Science and Engineering at NJUPT in 2020. I am also a visiting Ph.D. student at [Nanyang Technological University](https://www.ntu.edu.sg/) under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) during 2024-2025.
 
 My current research interests revolve around supply chain security, program analysis, and automated testing technologies for software.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- <span style="color:#FC4E2A">[*2024.08*]</span> &nbsp;🎉 Two paper are accepted by the **Research track of ASE 2024**!
+- <span style="color:#FC4E2A">[*2024.07*]</span> &nbsp;🎉 One paper are accepted by the **Research track of ACL 2024**!
 
 
-# 📝 Publications 
+
+# 📝 Publications
+
+- <span style="color:#337AB7">[**ASE'24**]</span> **How Does Code Optimization Impact Third-party Library Detection for Android Applications?**
+  **Zifan Xie**, Ming Wen, Tinghan Li, Yiding Zhu, Qinsheng Hou, Hai Jin.
+  In *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2024.  (<span style="color:#FC4E2A">CCF-A</span>)
+  <!-- [[Paper]()]
+  [[DOI]()] -->
+
+<!-- -  <span style="color:#337AB7">[**ASE'24**]</span> **Unveiling Characteristics and Impact of Security Patch Evolution in OSS Projects.**
+  **Zifan Xie**, Ming Wen, Zichao Wei, Hai Jin.
+  In *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2024.  (<span style="color:#FC4E2A">CCF-A</span>) -->
+
+  -  <span style="color:#337AB7">[**ACL'24**]</span> **Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning.**
+  Xiaohu Du, Ming Wen, Jiahao Zhu, **Zifan Xie**, Bin Ji, Huijun Liu, Xuanhua Shi, Hai Jin.
+  In *Annual Conference of the Association for Computational Linguistics (ACL)*, 2024.  (<span style="color:#FC4E2A">CCF-A</span>)
+  <!-- [[Paper]()]
+  [[DOI]()] -->
+
+-  <span style="color:#337AB7">[**ASPLOS'24**]</span> **Validating JVM Compilers via Maximizing Optimization Interleaving.**
+  **Zifan Xie**, Ming Wen, Shiyu Qiu, Hai Jin.
+  In *ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, 2024.  (<span style="color:#FC4E2A">CCF-A</span>)
+  <!-- [[Paper]()]
+  [[DOI]()] -->
 
 
+-  <span style="color:#337AB7">[**ISSTA'23**]</span> **Precise and Efficient Patch Presence Test for Android Applications against Code Obfuscation.**
+  **Zifan Xie**, Ming Wen, Haoxiang Jia, Xiaochen Guo, Xiaotong Huang, Deqing Zou, Hai Jin.
+  In *ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)*, 2023.  (<span style="color:#FC4E2A">CCF-A</span>)
+  <!-- [[Paper]()]
+  [[DOI]()] -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+-  <span style="color:#337AB7">[**TSE'23**]</span> **Effective Isolation of Fault-Correlated Variables via Statistical and Mutation Analysis.**
+  Ming Wen, **Zifan Xie**, Kaixuan Luo, Xiao Chen, Yibiao Yang, Hai Jin.
+  In *IEEE Transactions on Software Engineering (TSE)*, 2023.  (<span style="color:#FC4E2A">CCF-A</span>)
+  <!-- [[Paper]()]
+  [[DOI]()] -->
+
+-  <span style="color:#337AB7">[**ICSE'23**]</span> **Detecting JVM JIT Compiler Bugs via Exploring Two-Dimensional Input Spaces.**
+  Haoxiang Jia, Ming Wen, **Zifan Xie**, Xiaochen Guo, Rongxin Wu, Maolin Sun, Kang Chen, Hai Jin.
+  In *International Conference on Software Engineering (ICSE)*, 2023.  (<span style="color:#FC4E2A">CCF-A</span>)
+  <!-- [[Paper]()]
+  [[DOI]()] -->
+
+-  <span style="color:#337AB7">[**ASE'23**]</span> **AutoLog: A Log Sequence Synthesis Framework for Anomaly Detection.**
+  Yintong Huo, Yichen Li, Yuxin Su, Pinjia He, **Zifan Xie**, Michael R. Lyu.
+  In *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2023.  (<span style="color:#FC4E2A">CCF-A</span>)
+  <!-- [[Paper]()]
+  [[DOI]()] -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021* National Scholarship.
+- *2022* Second Place in the Software Security Track of the DataCon Big Data Security Analysis Competition.
