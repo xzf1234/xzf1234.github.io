@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% assign gsDataBaseUrl = "<https://cdn.jsdelivr.net/gh/>" | append: site.repository | append: "@" %}
 {% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% assign gsDataBaseUrl = "<https://raw.githubusercontent.com/>" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
@@ -21,13 +21,10 @@ I am pursuing a Ph.D. degree at the School of Cyber Science and Engineering, Hua
 
 My current research interests revolve around supply chain security, program analysis, and automated testing technologies for software.
 
-
 # 🔥 News
 
-- <span style="color:#FC4E2A">[*2024.08*]</span> &nbsp;🎉 Two paper are accepted by the **Research track of ASE 2024**!
-- <span style="color:#FC4E2A">[*2024.07*]</span> &nbsp;🎉 One paper are accepted by the **Research track of ACL 2024**!
-
-
+- <span style="color:#FC4E2A">[*2024.08*]</span> &nbsp;🎉 Two paper were accepted by the **Research track of ASE 2024**!
+- <span style="color:#FC4E2A">[*2024.07*]</span> &nbsp;🎉 One paper was accepted by the **ACL Findings 2024**!
 
 # 📝 Publications
 
@@ -41,44 +38,43 @@ My current research interests revolve around supply chain security, program anal
   **Zifan Xie**, Ming Wen, Zichao Wei, Hai Jin.
   In *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2024.  (<span style="color:#FC4E2A">CCF-A</span>) -->
 
-  -  <span style="color:#337AB7">[**ACL'24**]</span> **Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning.**
+- <span style="color:#337AB7">[**ACL'24**]</span> **Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning.**
   Xiaohu Du, Ming Wen, Jiahao Zhu, **Zifan Xie**, Bin Ji, Huijun Liu, Xuanhua Shi, Hai Jin.
   In *Annual Conference of the Association for Computational Linguistics (ACL)*, 2024.  (<span style="color:#FC4E2A">CCF-A</span>)
   <!-- [[Paper]()]
   [[DOI]()] -->
 
--  <span style="color:#337AB7">[**ASPLOS'24**]</span> **Validating JVM Compilers via Maximizing Optimization Interleaving.**
+- <span style="color:#337AB7">[**ASPLOS'24**]</span> **Validating JVM Compilers via Maximizing Optimization Interleaving.**
   **Zifan Xie**, Ming Wen, Shiyu Qiu, Hai Jin.
   In *ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, 2024.  (<span style="color:#FC4E2A">CCF-A</span>)
   <!-- [[Paper]()]
   [[DOI]()] -->
 
-
--  <span style="color:#337AB7">[**ISSTA'23**]</span> **Precise and Efficient Patch Presence Test for Android Applications against Code Obfuscation.**
+- <span style="color:#337AB7">[**ISSTA'23**]</span> **Precise and Efficient Patch Presence Test for Android Applications against Code Obfuscation.**
   **Zifan Xie**, Ming Wen, Haoxiang Jia, Xiaochen Guo, Xiaotong Huang, Deqing Zou, Hai Jin.
   In *ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)*, 2023.  (<span style="color:#FC4E2A">CCF-A</span>)
   <!-- [[Paper]()]
   [[DOI]()] -->
 
-
--  <span style="color:#337AB7">[**TSE'23**]</span> **Effective Isolation of Fault-Correlated Variables via Statistical and Mutation Analysis.**
-  Ming Wen, **Zifan Xie**, Kaixuan Luo, Xiao Chen, Yibiao Yang, Hai Jin.
-  In *IEEE Transactions on Software Engineering (TSE)*, 2023.  (<span style="color:#FC4E2A">CCF-A</span>)
-  <!-- [[Paper]()]
-  [[DOI]()] -->
-
--  <span style="color:#337AB7">[**ICSE'23**]</span> **Detecting JVM JIT Compiler Bugs via Exploring Two-Dimensional Input Spaces.**
-  Haoxiang Jia, Ming Wen, **Zifan Xie**, Xiaochen Guo, Rongxin Wu, Maolin Sun, Kang Chen, Hai Jin.
-  In *International Conference on Software Engineering (ICSE)*, 2023.  (<span style="color:#FC4E2A">CCF-A</span>)
-  <!-- [[Paper]()]
-  [[DOI]()] -->
-
--  <span style="color:#337AB7">[**ASE'23**]</span> **AutoLog: A Log Sequence Synthesis Framework for Anomaly Detection.**
+- <span style="color:#337AB7">[**ASE'23**]</span> **AutoLog: A Log Sequence Synthesis Framework for Anomaly Detection.**
   Yintong Huo, Yichen Li, Yuxin Su, Pinjia He, **Zifan Xie**, Michael R. Lyu.
   In *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2023.  (<span style="color:#FC4E2A">CCF-A</span>)
   <!-- [[Paper]()]
   [[DOI]()] -->
 
+- <span style="color:#337AB7">[**ICSE'23**]</span> **Detecting JVM JIT Compiler Bugs via Exploring Two-Dimensional Input Spaces.**
+  Haoxiang Jia, Ming Wen, **Zifan Xie**, Xiaochen Guo, Rongxin Wu, Maolin Sun, Kang Chen, Hai Jin.
+  In *International Conference on Software Engineering (ICSE)*, 2023.  (<span style="color:#FC4E2A">CCF-A</span>)
+  <!-- [[Paper]()]
+  [[DOI]()] -->
+
+- <span style="color:#337AB7">[**TSE'23**]</span> **Effective Isolation of Fault-Correlated Variables via Statistical and Mutation Analysis.**
+  Ming Wen, **Zifan Xie**, Kaixuan Luo, Xiao Chen, Yibiao Yang, Hai Jin.
+  In *IEEE Transactions on Software Engineering (TSE)*, 2023.  (<span style="color:#FC4E2A">CCF-A</span>)
+  <!-- [[Paper]()]
+  [[DOI]()] -->
+
 # 🎖 Honors and Awards
+
 - *2021* National Scholarship.
 - *2022* Second Place in the Software Security Track of the DataCon Big Data Security Analysis Competition.
