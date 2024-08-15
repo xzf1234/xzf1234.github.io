@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "XIE Zifan (谢子凡)"
+title                    : "Zifan Xie's (谢子凡) Homepage"
 description              : "Ph.D candidate at Huazhong University of Science and Technology. Research ARTS<sup>3</sup> research group (in short for <b>A</b>dvanced <b>R</b>esearch for <b>T</b>rustworthy and <b>S</b>ecure <b>S</b>oftware <b>S</b>ystems) "
 repository               : "xzf1234/xzf1234.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "XIE Zifan (谢子凡)"
+  name             : "Zifan Xie(谢子凡)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : 
   location         : "Wuhan, China"
