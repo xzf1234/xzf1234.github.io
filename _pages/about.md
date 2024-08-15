@@ -41,8 +41,8 @@ My current research interests revolve around supply chain security, program anal
 - <span style="color:#337AB7">[**ACL'24**]</span> **Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning.**
   Xiaohu Du, Ming Wen, Jiahao Zhu, **Zifan Xie**, Bin Ji, Huijun Liu, Xuanhua Shi, Hai Jin.
   In *Annual Conference of the Association for Computational Linguistics (ACL)*, 2024.  (<span style="color:#FC4E2A">CCF-A</span>)
-  <!-- [[Paper]()]
-  [[DOI]()] -->
+  [[Paper](https://xzf1234.github.io/pdfs/ACL24.pdf)]
+  [[DOI](https://doi.org/10.48550/arXiv.2406.03718)]
 
 - <span style="color:#337AB7">[**ASPLOS'24**]</span> **Validating JVM Compilers via Maximizing Optimization Interleaving.**
   **Zifan Xie**, Ming Wen, Shiyu Qiu, Hai Jin.
@@ -53,26 +53,29 @@ My current research interests revolve around supply chain security, program anal
 - <span style="color:#337AB7">[**ISSTA'23**]</span> **Precise and Efficient Patch Presence Test for Android Applications against Code Obfuscation.**
   **Zifan Xie**, Ming Wen, Haoxiang Jia, Xiaochen Guo, Xiaotong Huang, Deqing Zou, Hai Jin.
   In *ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)*, 2023.  (<span style="color:#FC4E2A">CCF-A</span>)
-  <!-- [[Paper]()]
-  [[DOI]()] -->
+  [[Paper](https://xzf1234.github.io/pdfs/ISSTA23-PHunter.pdf)]
+  [[DOI](https://doi.org/10.1145/3597926.3598061)]
+  [[CODE](https://github.com/CGCL-codes/PHunter)]
 
 - <span style="color:#337AB7">[**ASE'23**]</span> **AutoLog: A Log Sequence Synthesis Framework for Anomaly Detection.**
   Yintong Huo, Yichen Li, Yuxin Su, Pinjia He, **Zifan Xie**, Michael R. Lyu.
   In *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2023.  (<span style="color:#FC4E2A">CCF-A</span>)
-  <!-- [[Paper]()]
-  [[DOI]()] -->
+  [[Paper](https://xzf1234.github.io/pdfs/ASE23-AutoLog.pdf)]
+  [[DOI](https://doi.org/10.1109/ASE56229.2023.00133)]
 
 - <span style="color:#337AB7">[**ICSE'23**]</span> **Detecting JVM JIT Compiler Bugs via Exploring Two-Dimensional Input Spaces.**
   Haoxiang Jia, Ming Wen, **Zifan Xie**, Xiaochen Guo, Rongxin Wu, Maolin Sun, Kang Chen, Hai Jin.
   In *International Conference on Software Engineering (ICSE)*, 2023.  (<span style="color:#FC4E2A">CCF-A</span>)
-  <!-- [[Paper]()]
-  [[DOI]()] -->
+  [[Paper](https://xzf1234.github.io/pdfs/ICSE23-JOpFuzzer.pdf)]
+  [[DOI](https://doi.org/10.1109/ICSE48619.2023.00016)]
+  [[CODE](https://github.com/CGCL-codes/JOpFuzzer)]
 
 - <span style="color:#337AB7">[**TSE'23**]</span> **Effective Isolation of Fault-Correlated Variables via Statistical and Mutation Analysis.**
   Ming Wen, **Zifan Xie**, Kaixuan Luo, Xiao Chen, Yibiao Yang, Hai Jin.
   In *IEEE Transactions on Software Engineering (TSE)*, 2023.  (<span style="color:#FC4E2A">CCF-A</span>)
-  <!-- [[Paper]()]
-  [[DOI]()] -->
+  [[Paper](https://xzf1234.github.io/pdfs/TSE23-IsoVar.pdf)]
+  [[DOI](https://doi.org/10.1109/TSE.2022.3209590)]
+  [[CODE](https://github.com/MingWEN-CS/IsoVar)]
 
 # 🎖 Honors and Awards
 
