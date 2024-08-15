@@ -31,7 +31,7 @@ My current research interests revolve around supply chain security, program anal
 - <span style="color:#337AB7">[**ASE'24**]</span> **How Does Code Optimization Impact Third-party Library Detection for Android Applications?**
   **Zifan Xie**, Ming Wen, Tinghan Li, Yiding Zhu, Qinsheng Hou, Hai Jin.
   In *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2024.  (<span style="color:#FC4E2A">CCF-A</span>)
-  [[Paper](https://xzf1234.github.io)]
+  [[PDF](https://xzf1234.github.io)]
   <!-- [[DOI]()] -->
   <!-- [[CODE](https://github.com/CGCL-codes/MopFuzzer)] -->
 
@@ -39,7 +39,7 @@ My current research interests revolve around supply chain security, program anal
   **Zifan Xie**, Ming Wen, Zichao Wei, Hai Jin.
   In *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2024.  (<span style="color:#FC4E2A">CCF-A</span>) -->
 
-- <span style="color:#337AB7">[**ACL'24**]</span> **Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning.**
+- <span style="color:#337AB7">[**ACL Finding'24**]</span> **Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning.**
   Xiaohu Du, Ming Wen, Jiahao Zhu, **Zifan Xie**, Bin Ji, Huijun Liu, Xuanhua Shi, Hai Jin.
   In *Annual Conference of the Association for Computational Linguistics (ACL)*, 2024.  (<span style="color:#FC4E2A">CCF-A</span>)
   [[PDF](https://xzf1234.github.io/pdfs/ACL24.pdf)]
@@ -49,7 +49,7 @@ My current research interests revolve around supply chain security, program anal
 - <span style="color:#337AB7">[**ASPLOS'24**]</span> **Validating JVM Compilers via Maximizing Optimization Interleaving.**
   **Zifan Xie**, Ming Wen, Shiyu Qiu, Hai Jin.
   In *ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, 2024.  (<span style="color:#FC4E2A">CCF-A</span>)
-  [[Paper](https://xzf1234.github.io)]
+  [[PDF](https://xzf1234.github.io)]
   <!-- [[DOI]()] -->
   [[CODE](https://github.com/CGCL-codes/MopFuzzer)]
 
