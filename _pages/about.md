@@ -25,6 +25,7 @@ My current research interests revolve around supply chain security, program anal
 
 - <span style="color:#FC4E2A">[*2024.08*]</span> &nbsp;🎉 Two paper were accepted by the **Research track of ASE 2024**!
 - <span style="color:#FC4E2A">[*2024.07*]</span> &nbsp;🎉 One paper was accepted by the **ACL Findings 2024**!
+- <span style="color:#FC4E2A">[*2024.06*]</span> &nbsp;🎉 One paper was accepted by the **ASPLOS 2024**!
 
 # 📝 Publications
 
