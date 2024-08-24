@@ -36,9 +36,11 @@ My current research interests revolve around supply chain security, program anal
   <!-- [[DOI]()] -->
   <!-- [[CODE](https://github.com/CGCL-codes/MopFuzzer)] -->
 
-<!-- -  <span style="color:#337AB7">[**ASE'24**]</span> **Unveiling Characteristics and Impact of Security Patch Evolution in OSS Projects.**
+-  <span style="color:#337AB7">[**ASE'24**]</span> **Unveiling Characteristics and Impact of Security Patch Evolution in OSS Projects.**
   **Zifan Xie**, Ming Wen, Zichao Wei, Hai Jin.
-  In *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2024.  (<span style="color:#FC4E2A">CCF-A</span>) -->
+  In *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2024.  (<span style="color:#FC4E2A">CCF-A</span>)
+  [[PDF](https://xzf1234.github.io)]
+
 
 - <span style="color:#337AB7">[**ACL Finding'24**]</span> **Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning.**
   Xiaohu Du, Ming Wen, Jiahao Zhu, **Zifan Xie**, Bin Ji, Huijun Liu, Xuanhua Shi, Hai Jin.
