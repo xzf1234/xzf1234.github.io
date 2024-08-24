@@ -42,7 +42,7 @@ My current research interests revolve around supply chain security, program anal
   [[PDF](https://xzf1234.github.io)]
 
 
-- <span style="color:#337AB7">[**ACL Finding'24**]</span> **Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning.**
+- <span style="color:#337AB7">[**ACL Findings'24**]</span> **Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning.**
   Xiaohu Du, Ming Wen, Jiahao Zhu, **Zifan Xie**, Bin Ji, Huijun Liu, Xuanhua Shi, Hai Jin.
   In *Annual Conference of the Association for Computational Linguistics (ACL)*, 2024.  (<span style="color:#FC4E2A">CCF-A</span>)
   [[PDF](https://xzf1234.github.io/pdfs/ACL24.pdf)]
