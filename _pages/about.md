@@ -52,7 +52,7 @@ My current research interests revolve around supply chain security, program anal
 - <span style="color:#337AB7">[**ASPLOS'24**]</span> **Validating JVM Compilers via Maximizing Optimization Interleaving.**
   **Zifan Xie**, Ming Wen, Shiyu Qiu, Hai Jin.
   In *ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, 2024.  (<span style="color:#FC4E2A">CCF-A</span>)
-  [[PDF](https://xzf1234.github.io)]
+  [[PDF](https://xzf1234.github.io/pdfs/ASPLOS24fall-MopFuzzer.pdf)]
   <!-- [[DOI]()] -->
   [[CODE](https://github.com/CGCL-codes/MopFuzzer)]
 
