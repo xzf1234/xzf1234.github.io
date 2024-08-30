@@ -32,14 +32,14 @@ My current research interests revolve around supply chain security, program anal
 - <span style="color:#337AB7">[**ASE'24**]</span> **How Does Code Optimization Impact Third-party Library Detection for Android Applications?**
   **Zifan Xie**, Ming Wen, Tinghan Li, Yiding Zhu, Qinsheng Hou, Hai Jin.
   In *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2024.  (<span style="color:#FC4E2A">CCF-A</span>)
-  [[preprint](https://xzf1234.github.io/ASE24_TPL_preprint.pdf)]
+  [[preprint](https://xzf1234.github.io/pdfs/ASE24_TPL_preprint.pdf)]
   <!-- [[DOI]()] -->
   <!-- [[CODE](https://github.com/CGCL-codes/MopFuzzer)] -->
 
 -  <span style="color:#337AB7">[**ASE'24**]</span> **Unveiling Characteristics and Impact of Security Patch Evolution in OSS Projects.**
   **Zifan Xie**, Ming Wen, Zichao Wei, Hai Jin.
   In *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2024.  (<span style="color:#FC4E2A">CCF-A</span>)
-  [[preprint](https://xzf1234.github.io/ASE24_PatchEvolution_preprint.pdf)]
+  [[preprint](https://xzf1234.github.io/pdfs/ASE24_PatchEvolution_preprint.pdf)]
 
 
 - <span style="color:#337AB7">[**ACL Findings'24**]</span> **Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning.**
