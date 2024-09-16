@@ -24,7 +24,7 @@ My current research interests revolve around supply chain security, program anal
 # 🔥 News
 
 - <span style="color:#FC4E2A">[*2024.08*]</span> &nbsp;🎉 Two paper were accepted by the **Research track of ASE 2024**!
-- <span style="color:#FC4E2A">[*2024.07*]</span> &nbsp;🎉 One paper was accepted by the **ACL Findings 2024**!
+- <span style="color:#FC4E2A">[*2024.07*]</span> &nbsp;🎉 One paper was accepted by the **ACL 2024**!
 - <span style="color:#FC4E2A">[*2024.06*]</span> &nbsp;🎉 One paper was accepted by the **ASPLOS 2024**!
 
 # 📝 Publications
@@ -43,7 +43,7 @@ My current research interests revolve around supply chain security, program anal
   [[CODE](https://github.com/CGCL-codes/PatchEvolution)]
 
 
-- <span style="color:#337AB7">[**ACL Findings'24**]</span> **Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning.**
+- <span style="color:#337AB7">[**ACL'24**]</span> **Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning.**
   Xiaohu Du, Ming Wen, Jiahao Zhu, **Zifan Xie**, Bin Ji, Huijun Liu, Xuanhua Shi, Hai Jin.
   In *Annual Conference of the Association for Computational Linguistics (ACL)*, 2024.  (<span style="color:#FC4E2A">CCF-A</span>)
   [[PDF](https://xzf1234.github.io/pdfs/ACL24.pdf)]
