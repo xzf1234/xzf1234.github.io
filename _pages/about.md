@@ -23,7 +23,7 @@ My current research interests revolve around supply chain security, program anal
 
 # 🔥 News
 
-- <span style="color:#FC4E2A">[*2024.10*]</span> &nbsp;🎉🎉 Our paper "How Does Code Optimization Impact Third-party Library Detection for Android Applications?" has won an [ACM SIGSOFT Distinguished Paper award!](https://conf.researchr.org/info/ase-2024/awards) 🏆!
+- <span style="color:#FC4E2A">[*2024.10*]</span> &nbsp;🎉🎉 Our paper "How Does Code Optimization Impact Third-party Library Detection for Android Applications?" has won an [<span style="color:#FC4E2A">ACM SIGSOFT Distinguished Paper award!</span>](https://conf.researchr.org/info/ase-2024/awards) 🏆!
 - <span style="color:#FC4E2A">[*2024.08*]</span> &nbsp;🎉🎉 Two paper were accepted by the **Research track of ASE 2024**!
 - <span style="color:#FC4E2A">[*2024.07*]</span> &nbsp;🎉🎉 One paper was accepted by the **ACL 2024**!
 - <span style="color:#FC4E2A">[*2024.06*]</span> &nbsp;🎉🎉 One paper was accepted by the **ASPLOS 2024**!
