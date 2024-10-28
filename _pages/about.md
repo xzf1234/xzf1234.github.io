@@ -23,6 +23,7 @@ My current research interests revolve around supply chain security, program anal
 
 # 🔥 News
 
+- <span style="color:#FC4E2A">[*2024.10*]</span> &nbsp;🎉🎉 Our paper "How Does Code Optimization Impact Third-party Library Detection for Android Applications?" has won an [ACM SIGSOFT Distinguished Paper award!](https://conf.researchr.org/info/ase-2024/awards) 🏆!
 - <span style="color:#FC4E2A">[*2024.08*]</span> &nbsp;🎉🎉 Two paper were accepted by the **Research track of ASE 2024**!
 - <span style="color:#FC4E2A">[*2024.07*]</span> &nbsp;🎉🎉 One paper was accepted by the **ACL 2024**!
 - <span style="color:#FC4E2A">[*2024.06*]</span> &nbsp;🎉🎉 One paper was accepted by the **ASPLOS 2024**!
@@ -32,14 +33,16 @@ My current research interests revolve around supply chain security, program anal
 - <span style="color:#337AB7">[**ASE'24**]</span> **How Does Code Optimization Impact Third-party Library Detection for Android Applications?**
   **Zifan Xie**, Ming Wen, Tinghan Li, Yiding Zhu, Qinsheng Hou, Hai Jin.
   In *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2024.  (<span style="color:#FC4E2A">CCF-A</span>)
-  [[preprint](https://xzf1234.github.io/pdfs/ASE24_LibHunter.pdf)]
-  <!-- [[DOI]()] -->
+  [[PDF](https://xzf1234.github.io/pdfs/ASE24_LibHunter.pdf)]
+  [[DOI](https://dl.acm.org/doi/10.1145/3691620.3695554)]
   [[CODE](https://github.com/CGCL-codes/LibHunter)]
+  [<span style="color:#FC4E2A">ACM SIGSOFT Distinguished Paper award 🏆</span>](https://conf.researchr.org/info/ase-2024/awards)
 
 -  <span style="color:#337AB7">[**ASE'24**]</span> **Unveiling Characteristics and Impact of Security Patch Evolution in OSS Projects.**
   **Zifan Xie**, Ming Wen, Zichao Wei, Hai Jin.
   In *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2024.  (<span style="color:#FC4E2A">CCF-A</span>)
-  [[preprint](https://xzf1234.github.io/pdfs/ASE24_PatchEvolution.pdf)]
+  [[PDF](https://xzf1234.github.io/pdfs/ASE24_PatchEvolution.pdf)]
+  [[DOI](https://dl.acm.org/doi/10.1145/3691620.3695488)]
   [[CODE](https://github.com/CGCL-codes/PatchEvolution)]
 
 
