@@ -54,5 +54,6 @@ My current research interests revolve around supply chain security, program anal
 
 # 🎖 Honors and Awards
 
-- *2021* National Scholarship.
+- *2024* ASE 2024 ACM SIGSOFT Distinguished Paper Award.
+- *2022, 2024* National Scholarship.
 - *2022* Second Place in the Software Security Track of the DataCon Big Data Security Analysis Competition.
