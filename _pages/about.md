@@ -23,6 +23,7 @@ My current research interests revolve around supply chain security, program anal
 
 # 🔥 News
 
+- <span style="color:#FC4E2A">[*2024.11*]</span> Invited to serve as a member of the artifact evaluation committee for OOPSLA 2025.
 - <span style="color:#FC4E2A">[*2024.10*]</span> &nbsp;🎉🎉 Our paper "How Does Code Optimization Impact Third-party Library Detection for Android Applications?" has won an [<span style="color:#FC4E2A">ACM SIGSOFT Distinguished Paper award!</span>](https://conf.researchr.org/info/ase-2024/awards) 🏆!
 - <span style="color:#FC4E2A">[*2024.08*]</span> &nbsp;🎉🎉 Two paper were accepted by the **Research track of ASE 2024**!
 - <span style="color:#FC4E2A">[*2024.07*]</span> &nbsp;🎉🎉 One paper was accepted by the **ACL 2024**!
@@ -48,7 +49,11 @@ My current research interests revolve around supply chain security, program anal
 
 - <span style="color:#337AB7">[**TSE'23**]</span> Ming Wen, **Zifan Xie**, Kaixuan Luo, Xiao Chen, Yibiao Yang, Hai Jin. **Effective Isolation of Fault-Correlated Variables via Statistical and Mutation Analysis.**   In *IEEE Transactions on Software Engineering (TSE)*, 2023. (<span style="color:#FC4E2A">CCF-A</span>) [[PDF](https://xzf1234.github.io/pdfs/TSE23-IsoVar.pdf)]  [[DOI](https://doi.org/10.1109/TSE.2022.3209590)] [[CODE](https://github.com/MingWEN-CS/IsoVar)]
 
+# 📚 Services
+- [OOPSLA 2025](https://2025.splashcon.org/committee/splash-2025-oopsla-artifacts-artifact-evaluation-committee) Artifact Evaluation Committee Member
+
 # 🎖 Honors and Awards
 
-- *2021* National Scholarship.
+- *2024* ASE 2024 ACM SIGSOFT Distinguished Paper Award.
+- *2022, 2024* National Scholarship.
 - *2022* Second Place in the Software Security Track of the DataCon Big Data Security Analysis Competition.
