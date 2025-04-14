@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am pursuing a Ph.D. degree at the School of Cyber Science and Engineering, Huazhong University of Science and Technology, advised by [Assoc. Prof. Ming Wen](https://mingwen-cs.github.io/index.html). Before that, I received my B.S. degree from the School of Computer Science and Engineering at NJUPT in 2020. I am also a visiting Ph.D. student at [Nanyang Technological University](https://www.ntu.edu.sg/) under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) during 2024-2025.
+I am pursuing a Ph.D. degree at the School of Cyber Science and Engineering, Huazhong University of Science and Technology, advised by [Assoc. Prof. Ming Wen](https://mingwen-cs.github.io/index.html). <!-- Before that, I received my B.S. degree from the School of Computer Science and Engineering at NJUPT in 2020.  -->I am also a visiting Ph.D. student at [Nanyang Technological University](https://www.ntu.edu.sg/) under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) during 2024-2025.
 
 My current research interests revolve around supply chain security, program analysis, and automated testing technologies for software. Please contact me via email if you are interested in my research: xzff at hust.edu.cn.
 
