@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am pursuing a Ph.D. degree at the School of Cyber Science and Engineering, Huazhong University of Science and Technology, advised by [Assoc. Prof. Ming Wen](https://mingwen-cs.github.io/index.html). <!-- Before that, I received my B.S. degree from the School of Computer Science and Engineering at NJUPT in 2020.  -->I am also a visiting Ph.D. student at [Nanyang Technological University](https://www.ntu.edu.sg/) under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) during 2024-2025.
+I am an Assistant Professor at the School of Big Data & Software Engineering, Chongqing University. I have obtained my Ph.D degree at School of Cyber Science and Engineering, Huazhong University of Science and Technology, advised by [Assoc. Prof. Ming Wen](https://mingwen-cs.github.io/index.html). <!-- Before that, I received my B.S. degree from the School of Computer Science and Engineering at NJUPT in 2020.  -->I was also a visiting Ph.D. student at [Nanyang Technological University](https://www.ntu.edu.sg/) under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) during 2024-2025.
 
-My current research interests revolve around supply chain security, program analysis, and automated testing technologies for software. Please contact me via email if you are interested in my research: xzff at hust.edu.cn.
+My current research interests revolve around supply chain security, program analysis, and automated testing technologies for software. Please contact me via email if you are interested in my research: xzff at cqu.edu.cn.
 
 # 🔥 News
 
@@ -53,9 +53,11 @@ My current research interests revolve around supply chain security, program anal
 # 📚 Services
 - [PLDI 2025](https://pldi25ae.hotcrp.com/users/pc) Artifact Evaluation Committee Member
 - [OOPSLA 2025](https://2025.splashcon.org/committee/splash-2025-oopsla-artifacts-artifact-evaluation-committee) Artifact Evaluation Committee Member
+- Reviewer of Transactions on Information Forensics & Security
+- Reviewer of ACM COMPUTING SURVEYS
 
 # 🎖 Honors and Awards
-
+- *2025* Outstanding Graduate of Huazhong University of Science and Technology.
 - *2024* ASE 2024 ACM SIGSOFT Distinguished Paper Award.
 - *2022, 2024* National Scholarship.
 - *2022* Second Place in the Software Security Track of the DataCon Big Data Security Analysis Competition.
