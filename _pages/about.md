@@ -22,7 +22,7 @@ I am an Assistant Professor at the School of Big Data and Software Engineering, 
 My current research interests revolve around supply chain security, program analysis, and automated testing technologies for software. Please contact me via email if you are interested in my research: xzff at cqu.edu.cn.
 
 # 🔥 News
-
+- <span style="color:#FC4E2A">[*2025.01*]</span>  Our paper working on Compiler Testing was accepted to ICSE 2026.
 - <span style="color:#FC4E2A">[*2025.01*]</span> Invited to serve as a member of the artifact evaluation committee for PLDI 2025.
 - <span style="color:#FC4E2A">[*2024.11*]</span> Invited to serve as a member of the artifact evaluation committee for OOPSLA 2025.
 - <span style="color:#FC4E2A">[*2024.10*]</span> &nbsp;🎉🎉 Our paper "How Does Code Optimization Impact Third-party Library Detection for Android Applications?" has won an [<span style="color:#FC4E2A">ACM SIGSOFT Distinguished Paper award!</span>](https://conf.researchr.org/info/ase-2024/awards) 🏆!
@@ -31,6 +31,8 @@ My current research interests revolve around supply chain security, program anal
 - <span style="color:#FC4E2A">[*2024.06*]</span> &nbsp;🎉🎉 One paper was accepted by the **ASPLOS 2024**!
 
 # 📝 Publications
+- <span style="color:#337AB7">[**ICSE'26**]</span> Shiyu Qiu, Ming Wen, **Zifan Xie**, Hai Jin. **Fuzzing Java Optimizing Compilers with Complex Inter-Class Structures Guided by Heterogeneous Program Graphs.**
+  In *The International Conference on Software Engineering (ICSE)*, 2026. (<span style="color:#FC4E2A">CCF-A</span>) 
 
 - <span style="color:#337AB7">[**ASE'24**]</span> **Zifan Xie**, Ming Wen, Tinghan Li, Yiding Zhu, Qinsheng Hou, Hai Jin. **How Does Code Optimization Impact Third-party Library Detection for Android Applications?**  In *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2024. (<span style="color:#FC4E2A">CCF-A</span>)  [[PDF](https://xzf1234.github.io/pdfs/ASE24_LibHunter.pdf)] [[DOI](https://dl.acm.org/doi/10.1145/3691620.3695554)][[CODE](https://github.com/CGCL-codes/LibHunter)] 
   [<span style="color:#FC4E2A">ACM SIGSOFT Distinguished Paper award 🏆</span>](https://conf.researchr.org/info/ase-2024/awards)
@@ -57,6 +59,8 @@ My current research interests revolve around supply chain security, program anal
 - Reviewer of ACM COMPUTING SURVEYS
 
 # 🎖 Honors and Awards
+- Outstanding Graduate of Huazhong University of Science and Technology, 2025
+- 💰 ASPLOS'25 Travel Grant Award
 - *2025* Outstanding Graduate of Huazhong University of Science and Technology.
 - *2024* ASE 2024 ACM SIGSOFT Distinguished Paper Award.
 - *2022, 2024* National Scholarship.
