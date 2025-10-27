@@ -22,7 +22,7 @@ I am an Assistant Professor at the School of Big Data and Software Engineering, 
 My current research interests revolve around supply chain security, program analysis, and automated testing technologies for software. Please contact me via email if you are interested in my research: xzff at cqu.edu.cn.
 
 # 🔥 News
-- <span style="color:#FC4E2A">[*2025.01*]</span>  Our paper working on Compiler Testing was accepted to ICSE 2026.
+- <span style="color:#FC4E2A">[*2025.10*]</span>  Our paper working on Compiler Testing was accepted to ICSE 2026.
 - <span style="color:#FC4E2A">[*2025.01*]</span> Invited to serve as a member of the artifact evaluation committee for PLDI 2025.
 - <span style="color:#FC4E2A">[*2024.11*]</span> Invited to serve as a member of the artifact evaluation committee for OOPSLA 2025.
 - <span style="color:#FC4E2A">[*2024.10*]</span> &nbsp;🎉🎉 Our paper "How Does Code Optimization Impact Third-party Library Detection for Android Applications?" has won an [<span style="color:#FC4E2A">ACM SIGSOFT Distinguished Paper award!</span>](https://conf.researchr.org/info/ase-2024/awards) 🏆!
