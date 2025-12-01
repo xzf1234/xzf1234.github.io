@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Assistant Professor at the School of Big Data and Software Engineering, Chongqing University. I have obtained my Ph.D degree at School of Cyber Science and Engineering, Huazhong University of Science and Technology, advised by [Assoc. Prof. Ming Wen](https://mingwen-cs.github.io/index.html). <!-- Before that, I received my B.S. degree from the School of Computer Science and Engineering at NJUPT in 2020.  -->I was also a visiting Ph.D. student at [Nanyang Technological University](https://www.ntu.edu.sg/) under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) during 2024-2025.
+I am an Assistant Professor at the School of Big Data and Software Engineering, Chongqing University. I have obtained my Ph.D degree at School of Cyber Science and Engineering, Huazhong University of Science and Technology, advised by [Prof. Ming Wen](https://mingwen-cs.github.io/index.html). <!-- Before that, I received my B.S. degree from the School of Computer Science and Engineering at NJUPT in 2020.  -->I was also a visiting Ph.D. student at [Nanyang Technological University](https://www.ntu.edu.sg/) under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) during 2024-2025.
 
 My current research interests revolve around supply chain security, program analysis, and automated testing technologies for software. Please contact me via email if you are interested in my research: xzff at cqu.edu.cn.
 
@@ -59,6 +59,7 @@ My current research interests revolve around supply chain security, program anal
 - Reviewer of ACM COMPUTING SURVEYS
 
 # 🎖 Honors and Awards
+- ChinaSoft 2025 Software Research Prototype System Competition, Third Prize
 - Outstanding Graduate of Huazhong University of Science and Technology, 2025
 - 💰 ASPLOS'25 Travel Grant Award
 - *2025* Outstanding Graduate of Huazhong University of Science and Technology.
