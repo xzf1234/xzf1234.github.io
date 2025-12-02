@@ -60,8 +60,7 @@ My current research interests revolve around supply chain security, program anal
 
 # 🎖 Honors and Awards
 - ChinaSoft 2025 Software Research Prototype System Competition, Third Prize
-- Outstanding Graduate of Huazhong University of Science and Technology, 2025
-- 💰 ASPLOS'25 Travel Grant Award
+- ASPLOS'25 Travel Grant Award
 - *2025* Outstanding Graduate of Huazhong University of Science and Technology.
 - *2024* ASE 2024 ACM SIGSOFT Distinguished Paper Award.
 - *2022, 2024* National Scholarship.
