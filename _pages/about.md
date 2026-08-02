@@ -31,13 +31,15 @@ My current research interests revolve around supply chain security, program anal
 - <span style="color:#FC4E2A">[*2024.06*]</span> &nbsp;🎉🎉 One paper was accepted by the **ASPLOS 2024**!
 
 # 📝 Publications
+\# Equal contribution.
+
 - <span style="color:#337AB7">[**FSE'26**]</span> Yifan Xia, Chengwei Liu, **Zifan Xie**, Lyuye Zhang, Peiyu Liu, Kangjie Lu, Yang Liu, Wenhai Wang, Shouling Ji. **Break to Adapt: Knowledge-Based Updates of Breaking Dependencies in JavaScript.** In *ACM International Conference on the Foundations of Software Engineering (FSE)*, 2026. (<span style="color:#FC4E2A">CCF-A</span>) [[PDF](https://xzf1234.github.io/pdfs/FSE26%20breaking%20changes.pdf)] [[DOI](https://doi.org/10.1145/3808116)] [[CODE](https://github.com/EvanXiaa/BDUpdater)]
 
 - <span style="color:#337AB7">[**TOSEM'26**]</span> Maolin Sun, Yibiao Yang, Haoxiang Jia, Jiangchang Wu, Qingyang Li, **Zifan Xie**, Ming Wen, Yuming Zhou. **Testing like Mad Libs: Fuzzing SMT Solvers with Historical Unusual Inputs Empowered by LLMs.** In *ACM Transactions on Software Engineering and Methodology (TOSEM)*, 2026. (<span style="color:#FC4E2A">CCF-A</span>) [[PDF](https://xzf1234.github.io/pdfs/TOSEM%2026%20SMT.pdf)] [[DOI](https://doi.org/10.1145/3796526)] [[CODE](https://zenodo.org/records/14682492)]
 
 - <span style="color:#337AB7">[**TOSEM'26**]</span> **Zifan Xie**, Ming Wen, Shiyu Qiu, Maolin Sun, Hai Jin. **Understanding and Detecting Android R8 Compiler Bugs.** In *ACM Transactions on Software Engineering and Methodology (TOSEM)*, 2026. (<span style="color:#FC4E2A">CCF-A</span>)
 
-- <span style="color:#337AB7">[**ASE'26**]</span> Meilin Li, Kaixuan Li, Maolin Sun, Shiyu Qiu, **Zifan Xie**, Ming Wen, Hongyu Zhang. **Testing Static Analyzers via Semantic-Preserving Mutators Learned from Real-World Refactoring Practice.** In *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2026. (<span style="color:#FC4E2A">CCF-A</span>)
+- <span style="color:#337AB7">[**ASE'26**]</span> Meilin Li#, Kaixuan Li#, **Zifan Xie**, Shiyu Qiu, Ming Wen, Maolin Sun, Hongyu Zhang. **Testing Static Analyzers via Semantic-Preserving Mutators Learned from Real-World Refactoring Practice.** In *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2026. (<span style="color:#FC4E2A">CCF-A</span>)
 
 - <span style="color:#337AB7">[**ICSE'26**]</span> Shiyu Qiu, Ming Wen, **Zifan Xie**, Hai Jin. **Fuzzing Java Optimizing Compilers with Complex Inter-Class Structures Guided by Heterogeneous Program Graphs.**
   In *The International Conference on Software Engineering (ICSE)*, 2026. (<span style="color:#FC4E2A">CCF-A</span>) 
