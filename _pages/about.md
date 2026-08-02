@@ -66,7 +66,7 @@ My current research interests revolve around supply chain security, program anal
 # 📚 Services
 - [PLDI 2025](https://pldi25ae.hotcrp.com/users/pc) Artifact Evaluation Committee Member
 - [OOPSLA 2025](https://2025.splashcon.org/committee/splash-2025-oopsla-artifacts-artifact-evaluation-committee) Artifact Evaluation Committee Member
-- Reviewer of Transactions on Information Forensics & Security
+- Reviewer of Transactions on Information Forensics & Security (TIFS)
 - Reviewer of ACM Transactions on Software Engineering and Methodology (TOSEM)
 - Reviewer of IEEE Transactions on Software Engineering (TSE)
 - Reviewer of ACM Computing Surveys (CSUR)
