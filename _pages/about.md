@@ -39,7 +39,7 @@ My current research interests revolve around supply chain security, program anal
 
 - <span style="color:#337AB7">[**TOSEM'26**]</span> **Zifan Xie**, Ming Wen, Shiyu Qiu, Maolin Sun, Hai Jin. **Understanding and Detecting Android R8 Compiler Bugs.** In *ACM Transactions on Software Engineering and Methodology (TOSEM)*, 2026. (<span style="color:#FC4E2A">CCF-A</span>)
 
-- <span style="color:#337AB7">[**ASE'26**]</span> Meilin Li#, Kaixuan Li#, **Zifan Xie**, Shiyu Qiu, Ming Wen, Maolin Sun, Hongyu Zhang. **Testing Static Analyzers via Semantic-Preserving Mutators Learned from Real-World Refactoring Practice.** In *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2026. (<span style="color:#FC4E2A">CCF-A</span>)
+- <span style="color:#337AB7">[**ASE'26**]</span> Meilin Li#, Kaixuan Li#, **Zifan Xie***, Shiyu Qiu, Ming Wen, Maolin Sun, Hongyu Zhang. **Testing Static Analyzers via Semantic-Preserving Mutators Learned from Real-World Refactoring Practice.** In *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2026. (<span style="color:#FC4E2A">CCF-A</span>)
 
 - <span style="color:#337AB7">[**ICSE'26**]</span> Shiyu Qiu, Ming Wen, **Zifan Xie**, Hai Jin. **Fuzzing Java Optimizing Compilers with Complex Inter-Class Structures Guided by Heterogeneous Program Graphs.**
   In *The International Conference on Software Engineering (ICSE)*, 2026. (<span style="color:#FC4E2A">CCF-A</span>) 
